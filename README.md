@@ -1,4 +1,4 @@
 # mi-primer-proyecto-de-git
 esto es un proyecto
-de prueba
+de prueba con GIT
 uwu
